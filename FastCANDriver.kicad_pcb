@@ -5289,6 +5289,17 @@
 			(solder_mask_margin 0.102)
 			(uuid "05668722-af6e-4d53-8891-500f4dafd061")
 		)
+		(model "${KIPRJMOD}/NUCLEO-F446RE.step"
+			(offset
+				(xyz 0 0 10)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical"
 		(layer "F.Cu")
